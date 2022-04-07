@@ -8,5 +8,8 @@
   <modules>
   	<module>pruebas</module>
   </modules>
-  
+  <properties>
+  <sonar.organization>juancamilogj</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
 </project>
